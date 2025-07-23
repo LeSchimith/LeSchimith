@@ -1,7 +1,7 @@
 ### Olá, eu sou o Leandro Schimith!
 
-- 🔭 Hoje trabalho com análise de dados e back-end
-- 🌱 Estudando atualmente Python
+- 🔭 Hoje trabalho com análise de dados e mercado financeiro
+- 🌱 Estudando atualmente Streamlit
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leschimith&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leschimith&layout=compact&theme=chartreuse-dark)](https://github.com/leschimith/github-readme-stats)
